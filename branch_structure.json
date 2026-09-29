@@ -1,0 +1,15 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "ai-fix/2d918b48-images-must-have-alternative-text",
+    "main"
+  ],
+  "parent": {
+    "ai-fix/2d918b48-images-must-have-alternative-text": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "ai-fix/2d918b48-images-must-have-alternative-text"
+  ]
+}
