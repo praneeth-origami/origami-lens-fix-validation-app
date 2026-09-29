@@ -17,7 +17,7 @@ export function ProfileCard() {
       <div className="mt-4 flex items-center gap-4">
         {/* ORIGAMI-LENS-TEST: ACCESSIBILITY-002 — image has no alt text */}
         {/* eslint-disable-next-line jsx-a11y/alt-text */}
-        <img src="/avatar-placeholder.svg" className="h-14 w-14 rounded-full border border-slate-800 bg-slate-900" width={56} height={56} />
+        <img src="/avatar-placeholder.svg" className="h-14 w-14 rounded-full border border-slate-800 bg-slate-900" width={56} height={56} alt="User profile picture" />
         <div>
           <p className="font-medium text-white">Dana Whitfield</p>
           <p className="text-sm text-slate-400">Product Engineer · Origami Lens</p>
